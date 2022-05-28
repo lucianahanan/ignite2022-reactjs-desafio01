@@ -1,8 +1,8 @@
 # ignite2022-reactjs-desafio01
 
-<h2>luh - Contas</h2>
+<h2>Tasklist</h2>
 
-<strong>Project:</strong> Make a simple Tasklist App. Using:
+<strong>Project:</strong> Make a simple tasklist App. Using:
 
 <ul>
   <li>React.js</li>
